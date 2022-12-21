@@ -1,1 +1,1 @@
-# nginx-apache
+# nginx-config
